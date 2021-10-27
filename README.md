@@ -25,14 +25,16 @@ Here are some ideas to get you started:
 <h3> :rocket: &nbsp;Skills </h3>
 
 **Programming**
-  
-  ![Python3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=blue)
-  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r&logoColor=blue)
-  ![ShellScript](https://img.shields.io/badge/-ShellScript-333333?style=flat&logo=linux&logoColor=blue)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+<div style="display: inline_block">
+  <img align="center" alt="Jeff-py" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg">
+  <img align="center" alt="Jeff-R" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg">
+  <img align="center" alt="Jeff-ShellScript" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg">
+  <img align="center" alt="Jeff-Linux" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg">
+  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg">
+  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg">
+  <img align="center" alt="Jeff-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg">
+  <img align="center" alt="Jeff-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg">
+</div><br>
 
 **Main Packages**
   
@@ -61,6 +63,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/jeffrichardchemistry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffrichardchemistry&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrichardchemistry&layout=compact&langs_count=7&theme=dracula" />
 </a>
 
 <br/>
