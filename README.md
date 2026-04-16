@@ -64,7 +64,7 @@ Utiliza RAG + embeddings para suporte à tomada de decisão.
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeffrichardchemistry/jeffrichardchemistry/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/jeffrichardchemistry/jeffrichardchemistry/output/snake-dark.svg" />
 </p>
 
 ---
