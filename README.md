@@ -77,7 +77,3 @@ Utiliza RAG + embeddings para suporte à tomada de decisão.
 
 ---
 
-## ⚡ Filosofia
-
-> Não construo apenas código.  
-> Construo sistemas que resolvem problemas reais com IA em produção.
